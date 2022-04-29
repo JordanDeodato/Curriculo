@@ -1,5 +1,6 @@
 .img-nav {
     margin-left: 60px;
+    border-radius: 50%;
 }
 
 .navbar {
@@ -7,24 +8,27 @@
     font-size: 1.3em;
 }
 
-.quem-somos {
+.sobremim {
     background-color: rgb(125, 125, 214);
 }
 
-.h3desc {
+.h4desc {
+    width: 70%;
+    margin: auto;
     padding-bottom: 20px;
     margin-bottom: 0;
+    text-align: justify;
 }
 
 .margin {
     padding-top: 50px;
 }
 
-.img-quem-somos {
+.img-sobremim {
     padding: 20px;
 }
 
-.parceiros {
+.redes-sociais {
     background-color: rgb(27, 238, 168);
     padding: 30px;
 }
